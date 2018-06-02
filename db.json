@@ -1,0 +1,24 @@
+{
+"products":[
+{ "id": 1,  "nama": "Red-necked phalarope",  "category": "Khaki"}, 
+{ "id": 2,  "nama": "Little brown bat",  "category": "Orange"},
+{ "id": 3,  "nama": "Gray langur",  "category": "Red"}, 
+{ "id": 4,  "nama": "Boar, wild",  "category": "Khaki"}, 
+{ "id": 5,  "nama": "American bison",  "category": "Green"}, 
+{ "id": 6,  "nama": "Red-winged blackbird",  "category": "Yellow"}, 
+{ "id": 7,  "nama": "Otter, canadian river",  "category": "Maroon"}, 
+{ "id": 8,  "nama": "Black-faced kangaroo",  "category": "Violet"}, 
+{ "id": 9,  "nama": "Gelada baboon",  "category": "Violet"}, 
+{ "id": 10,  "nama": "Netted rock dragon",  "category": "Puce"}, 
+{ "id": 11,  "nama": "Grant's gazelle",  "category": "Violet"}, 
+{ "id": 12,  "nama": "Woodrat (unidentified)",  "category": "Crimson"}, 
+{ "id": 13,  "nama": "Bustard, denham's",  "category": "Aquamarine"}, 
+{ "id": 14,  "nama": "Helmeted guinea fowl",  "category": "Maroon"}, 
+{ "id": 15,  "nama": "Lapwing, southern",  "category": "Red"}, 
+{ "id": 16,  "nama": "Great white pelican",  "category": "Teal"}, 
+{ "id": 17,  "nama": "Giant armadillo",  "category": "Khaki"}, 
+{ "id": 18,  "nama": "Javan gold-spotted mongoose",  "category": "Mauv"}, 
+{ "id": 19,  "nama": "Francolin, swainson's",  "category": "Blue"}, 
+{ "id": 20,  "nama": "Porcupine, indian",  "category": "Aquamarine"}
+]
+}
